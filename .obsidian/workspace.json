@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "77e45d2d9d4c8d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ca9752fda6af0f7",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "423e13b56d733a92",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Index.md"
               }
             }
           }
@@ -186,9 +199,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc1a194063872936",
+  "active": "77e45d2d9d4c8d6e",
   "lastOpenFiles": [
     "Inbox.md",
+    "Index.md",
     "README.md",
     "心旷神怡.md",
     "爱屋及乌.md",
