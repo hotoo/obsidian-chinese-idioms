@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "24523a3e5675b108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书破万卷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ca9752fda6af0f7",
             "type": "leaf",
             "state": {
@@ -68,21 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "423e13b56d733a92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3b043a5b263cd15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目不转睛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目不转睛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,17 +183,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "目不转睛.md"
-              }
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b373ee31d253d91b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b043a5b263cd15",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +219,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "619fa6ded26b1fbf",
+  "active": "f1f8bd0e59e5e55d",
   "lastOpenFiles": [
+    "读书破万卷.md",
     "目不转睛.md",
     "Inbox.md",
     "Index.md",
