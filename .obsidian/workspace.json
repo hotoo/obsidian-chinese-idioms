@@ -146,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "读书破万卷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "读书破万卷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "读书破万卷.md"
+              }
             }
           }
         ],
@@ -219,8 +223,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f1f8bd0e59e5e55d",
+  "active": "73f09fd797cbb13c",
   "lastOpenFiles": [
+    "成语",
     "读书破万卷.md",
     "目不转睛.md",
     "Inbox.md",
