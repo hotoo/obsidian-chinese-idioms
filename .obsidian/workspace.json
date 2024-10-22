@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三十六计/4. 以逸待劳.md",
+                "file": "三十六计/18. 擒贼擒王.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 以逸待劳"
+              "title": "18. 擒贼擒王"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三十六计/4. 以逸待劳.md",
+                "file": "三十六计/18. 擒贼擒王.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4. 以逸待劳 的反向链接列表"
+              "title": "18. 擒贼擒王 的反向链接列表"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三十六计/4. 以逸待劳.md",
+                "file": "三十六计/18. 擒贼擒王.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "4. 以逸待劳 的出链列表"
+              "title": "18. 擒贼擒王 的出链列表"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三十六计/4. 以逸待劳.md"
+                "file": "三十六计/18. 擒贼擒王.md"
               },
               "icon": "lucide-list",
-              "title": "4. 以逸待劳 的大纲"
+              "title": "18. 擒贼擒王 的大纲"
             }
           },
           {
@@ -235,12 +235,26 @@
   },
   "active": "b4774ceee66e3bc3",
   "lastOpenFiles": [
+    "三十六计/17. 抛砖引玉.md",
+    "三十六计/18. 擒贼擒王.md",
+    "三十六计/16. 预擒故纵.md",
+    "三十六计/15. 调虎离山.md",
+    "三十六计/14. 借尸还魂.md",
+    "三十六计/13. 打草惊蛇.md",
+    "三十六计/12. 顺手牵羊.md",
+    "三十六计/11. 李代桃僵.md",
+    "三十六计/10. 笑里藏刀.md",
+    "古诗/将进酒.md",
+    "三十六计/9. 隔岸观火.md",
+    "三十六计/8. 暗度陈仓.md",
+    "三十六计/7. 无中生有.md",
+    "三十六计/6. 声东击西.md",
+    "三十六计/5. 趁火打劫.md",
+    "三十六计/4. 以逸待劳.md",
     "三十六计/3. 借刀杀人.md",
     "三十六计/2. 围魏救赵.md",
     "三十六计/1. 瞒天过海.md",
-    "三十六计/4. 以逸待劳.md",
     "心旷神怡.md",
-    "古诗/将进酒.md",
     "古诗/奉赠韦左丞丈二十二韵.md",
     "读书破万卷.md",
     "成语/爱屋及乌.md",
@@ -248,10 +262,7 @@
     "Inbox.md",
     "目不转睛.md",
     "三十六计",
-    "README.md",
     "古诗",
-    "成语",
-    "Index.md",
-    "心平气和.md"
+    "成语"
   ]
 }
