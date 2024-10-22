@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心旷神怡.md",
+                "file": "三十六计/4. 以逸待劳.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心旷神怡"
+              "title": "4. 以逸待劳"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,12 +233,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77e45d2d9d4c8d6e",
+  "active": "b4774ceee66e3bc3",
   "lastOpenFiles": [
     "三十六计/3. 借刀杀人.md",
-    "三十六计/4. 以逸待劳.md",
     "三十六计/2. 围魏救赵.md",
     "三十六计/1. 瞒天过海.md",
+    "三十六计/4. 以逸待劳.md",
+    "心旷神怡.md",
     "古诗/将进酒.md",
     "古诗/奉赠韦左丞丈二十二韵.md",
     "读书破万卷.md",
@@ -251,7 +252,6 @@
     "古诗",
     "成语",
     "Index.md",
-    "心旷神怡.md",
     "心平气和.md"
   ]
 }
