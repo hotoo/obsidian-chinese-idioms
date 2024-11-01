@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三十六计/24. 假道伐虢.md",
+                "file": "三十六计/1. 瞒天过海.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. 假道伐虢"
+              "title": "1. 瞒天过海"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三十六计/24. 假道伐虢.md",
+                "file": "三十六计/1. 瞒天过海.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "24. 假道伐虢 的反向链接列表"
+              "title": "1. 瞒天过海 的反向链接列表"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三十六计/24. 假道伐虢.md",
+                "file": "三十六计/1. 瞒天过海.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "24. 假道伐虢 的出链列表"
+              "title": "1. 瞒天过海 的出链列表"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三十六计/24. 假道伐虢.md"
+                "file": "三十六计/1. 瞒天过海.md"
               },
               "icon": "lucide-list",
-              "title": "24. 假道伐虢 的大纲"
+              "title": "1. 瞒天过海 的大纲"
             }
           },
           {
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b373ee31d253d91b",
@@ -233,10 +233,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b4774ceee66e3bc3",
+  "active": "f1f8bd0e59e5e55d",
   "lastOpenFiles": [
-    "三十六计/23. 远交近攻.md",
     "三十六计/24. 假道伐虢.md",
+    "三十六计/23. 远交近攻.md",
     "三十六计/22. 关门捉贼.md",
     "三十六计/21. 金蝉脱壳.md",
     "古诗/奉赠韦左丞丈二十二韵.md",
