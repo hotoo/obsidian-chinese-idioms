@@ -55,12 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三十六计/11. 李代桃僵.md",
+                "file": "三十六计/12. 顺手牵羊.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. 李代桃僵"
+              "title": "12. 顺手牵羊"
             }
           }
         ],
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三十六计/11. 李代桃僵.md",
+                "file": "三十六计/12. 顺手牵羊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "11. 李代桃僵 的反向链接列表"
+              "title": "12. 顺手牵羊 的反向链接列表"
             }
           },
           {
@@ -155,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三十六计/11. 李代桃僵.md",
+                "file": "三十六计/12. 顺手牵羊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "11. 李代桃僵 的出链列表"
+              "title": "12. 顺手牵羊 的出链列表"
             }
           },
           {
@@ -182,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三十六计/11. 李代桃僵.md"
+                "file": "三十六计/12. 顺手牵羊.md"
               },
               "icon": "lucide-list",
-              "title": "11. 李代桃僵 的大纲"
+              "title": "12. 顺手牵羊 的大纲"
             }
           },
           {
@@ -233,8 +234,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73f09fd797cbb13c",
+  "active": "b4774ceee66e3bc3",
   "lastOpenFiles": [
+    "三十六计/11. 李代桃僵.md",
     "诗经",
     "三十六计/1. 瞒天过海.md",
     "三十六计/24. 假道伐虢.md",
@@ -255,7 +257,6 @@
     "三十六计/14. 借尸还魂.md",
     "三十六计/13. 打草惊蛇.md",
     "三十六计/12. 顺手牵羊.md",
-    "三十六计/11. 李代桃僵.md",
     "三十六计/10. 笑里藏刀.md",
     "古诗/将进酒.md",
     "三十六计/9. 隔岸观火.md",
