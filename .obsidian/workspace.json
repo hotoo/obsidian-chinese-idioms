@@ -70,17 +70,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成语/东施效颦.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "东施效颦"
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "6c92d4055f3e27d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成语/东施效颦.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-list",
-              "title": "东施效颦 的大纲"
+              "title": "TODO 的大纲"
             }
           },
           {
@@ -249,10 +264,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e73a20580c11f23",
+  "active": "6c92d4055f3e27d1",
   "lastOpenFiles": [
-    "Inbox.md",
+    "成语/弄巧成拙.md",
     "成语/东施效颦.md",
+    "TODO.md",
+    "Inbox.md",
+    "成语/闭目塞听.md",
     "成语/爱屋及乌.md",
     "README.md",
     "Index.md",
@@ -275,9 +293,6 @@
     "三十六计/17. 抛砖引玉.md",
     "三十六计/16. 预擒故纵.md",
     "三十六计/15. 调虎离山.md",
-    "三十六计/14. 借尸还魂.md",
-    "三十六计/13. 打草惊蛇.md",
-    "三十六计/10. 笑里藏刀.md",
     "三十六计",
     "古诗",
     "成语"
