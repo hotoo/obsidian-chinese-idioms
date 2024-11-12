@@ -1,3 +1,5 @@
 {
-  "showViewHeader": true
+  "showViewHeader": true,
+  "cssTheme": "Minimal",
+  "accentColor": "#24acf5"
 }
