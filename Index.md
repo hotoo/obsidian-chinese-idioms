@@ -1,6 +1,11 @@
 # 中国成语
 
-# A
+```dataview
+table file.inlinks as Links sort file.inlinks.length desc 
+```
+
+
+## A
 
 - [[爱屋及乌]]
 

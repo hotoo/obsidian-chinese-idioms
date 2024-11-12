@@ -1,15 +1,13 @@
 # TODO
 
-## 进行中
-```dataviewjs
-var pages = dv.pages('"成语"')
-  .file.tasks.where(t => t.checked && t.text);
-dv.taskList(pages)
+## 更新中
+
+```dataview
+table file.inlinks as Links from #DOING sort file.inlinks.length desc, file.ctime desc
 ```
 
-## 待完成
-```dataviewjs
-var pages = dv.pages('"成语"')
-  .file.tasks.where(t => !t.checked && t.text);
-dv.taskList(pages)
+## 待更新
+
+```dataview
+table file.inlinks as Links from #TODO sort file.inlinks desc, file.ctime desc
 ```

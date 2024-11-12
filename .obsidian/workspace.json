@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "成语/东施效颦.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "东施效颦"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#唐",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "成语/东施效颦.md"
               },
               "icon": "lucide-list",
-              "title": "TODO 的大纲"
+              "title": "东施效颦 的大纲"
             }
           },
           {
@@ -261,21 +261,28 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
   "active": "6c92d4055f3e27d1",
   "lastOpenFiles": [
-    "成语/弄巧成拙.md",
+    "成语/独出新裁.md",
+    "成语/别开生面.md",
+    "成语/标新立异.md",
     "成语/东施效颦.md",
     "TODO.md",
-    "Inbox.md",
-    "成语/闭目塞听.md",
-    "成语/爱屋及乌.md",
-    "README.md",
+    "成语/鲜为人知.md",
     "Index.md",
-    "成语/适得其反.md",
+    "成语/弄巧成拙.md",
     "成语/邯郸学步.md",
+    "成语/爱屋及乌.md",
+    "成语/读书破万卷.md",
+    "古诗/奉赠韦左丞丈二十二韵.md",
+    "成语/闭目塞听.md",
+    "Inbox.md",
+    "README.md",
+    "成语/适得其反.md",
     "三十六计/12. 顺手牵羊.md",
     "三十六计/11. 李代桃僵.md",
     "诗经",
@@ -284,15 +291,9 @@
     "三十六计/23. 远交近攻.md",
     "三十六计/22. 关门捉贼.md",
     "三十六计/21. 金蝉脱壳.md",
-    "古诗/奉赠韦左丞丈二十二韵.md",
-    "成语/读书破万卷.md",
     "成语/目不转睛.md",
     "三十六计/20. 浑水摸鱼.md",
     "三十六计/19. 釜底抽薪.md",
-    "三十六计/18. 擒贼擒王.md",
-    "三十六计/17. 抛砖引玉.md",
-    "三十六计/16. 预擒故纵.md",
-    "三十六计/15. 调虎离山.md",
     "三十六计",
     "古诗",
     "成语"
